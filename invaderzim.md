@@ -17,3 +17,9 @@ It has:
 >Great animation for an early 2000's show
 >
 >Received a comic book series revival, as well as a movie
+
+Are you done reading this? Feel free to move back to the starting page or explore other pages!
+
+**Starting page**: [Starting page](https://github.com/rlwx3k/Markdown-Pages-Challenge/blob/main/README.md)
+
+**Miraculous page**: [Miraculous: Tales of Ladybug and Cat Noir](https://github.com/rlwx3k/Markdown-Pages-Challenge/blob/main/miraculous.md)
