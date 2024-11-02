@@ -11,3 +11,5 @@ It has:
  - Five seasons that have successfully premiered already, with a sixth season on the way
 
 Are you done reading this? Feel free to move back to the starting page or explore other pages!
+
+**Starting page**: [Starting page](https://github.com/rlwx3k/Markdown-Pages-Challenge/blob/main/README.md)
