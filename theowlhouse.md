@@ -15,3 +15,5 @@ Are you done reading this? Feel free to move back to the starting page or explor
 **Starting page**: [Starting page](https://github.com/rlwx3k/Markdown-Pages-Challenge/blob/main/README.md)
 
 **Miraculous page**: [Miraculous: Tales of Ladybug and Cat Noir](https://github.com/rlwx3k/Markdown-Pages-Challenge/blob/main/miraculous.md)
+
+**Invader Zim page**: [Invader Zim](https://github.com/rlwx3k/Markdown-Pages-Challenge/blob/main/invaderzim.md)
