@@ -13,4 +13,5 @@ The Owl House is another great cartoon that I thoroughly enjoyed; sadly, Disney 
 Are you done reading this? Feel free to move back to the starting page or explore other pages!
 
 **Starting page**: [Starting page](https://github.com/rlwx3k/Markdown-Pages-Challenge/blob/main/README.md)
-**Miraculous page**: 
+
+**Miraculous page**: [Miraculous: Tales of Ladybug and Cat Noir](https://github.com/rlwx3k/Markdown-Pages-Challenge/blob/main/miraculous.md)
